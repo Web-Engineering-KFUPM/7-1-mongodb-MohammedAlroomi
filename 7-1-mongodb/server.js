@@ -188,7 +188,7 @@
 import mongoose from "mongoose";
 
 // establish connection
-await mongoose.connect("mongodb+srv://<username>:<db_password>@cluster0.rygtjue.mongodb.net/TestDB");
+await mongoose.connect("mongodb+srv://s202250760:12345TREWQ%40@cluster0.cwmmyxg.mongodb.net/TestDB");
 console.log("✅ Connected to MongoDB");
 
 // define schema
